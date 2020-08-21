@@ -1,0 +1,35 @@
+{
+    "name": "osint",
+    "version": "1.0.0",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start",
+        "type-check": "tsc",
+        "export": "npm run build && next export"
+    },
+    "dependencies": {
+        "@zeit/next-source-maps": "0.0.3",
+        "axios": "^0.19.2",
+        "base64url": "^3.0.1",
+        "bootstrap": "^4.5.0",
+        "deepai": "^1.0.15",
+        "exif-js": "^2.3.0",
+        "isomorphic-unfetch": "^3.0.0",
+        "next": "latest",
+        "next-compose-plugins": "^2.2.0",
+        "react": "^16.12.0",
+        "react-dom": "^16.12.0",
+        "sass": "^1.26.10",
+        "url-safe-base64": "^1.1.1",
+        "urlsafe-base64": "^1.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^12.12.21",
+        "@types/react": "^16.9.16",
+        "@types/react-dom": "^16.9.4",
+        "@types/url-safe-base64": "^1.1.0",
+        "typescript": "3.7.3"
+    },
+    "license": "ISC"
+}
