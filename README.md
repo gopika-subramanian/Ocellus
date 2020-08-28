@@ -10,7 +10,7 @@ Deliverables:
 + A frontend using which user can access all the implemented features
 + Extraction of location and other info from image data
 
-![alt text](https://github.com/m0n574/Ocellus/image.png?raw=true)
+![1](https://github.com/m0n574/Ocellus/image.png)
 
 Instalation pre-requirements: 
 pip install requiremnets.txt
